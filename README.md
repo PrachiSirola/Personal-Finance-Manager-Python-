@@ -1,4 +1,3 @@
-# Personal-Finance-Manager-Python-
 # Personal Finance Manager – Python Project
 
 ## Introduction
