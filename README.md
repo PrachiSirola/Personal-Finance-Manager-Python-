@@ -4,13 +4,13 @@
 Managing daily expenses is something everyone struggles with, but most beginners
 never get a chance to build a real system that handles data properly.
 
-This project is a **command-line based Personal Finance Manager** developed using Python.
+This project is a command-line based Personal Finance Manager developed using Python.
 It allows users to record expenses, store them permanently, analyze spending patterns,
 and generate meaningful reports.
 
-The main purpose of this project is **not just expense tracking**, but to demonstrate
-how a real-world Python application is designed using **Object-Oriented Programming,
-file handling, validation, modular code structure, and basic data analysis**.
+The main purpose of this project is not just expense tracking, but to demonstrate
+how a real-world Python application is designed using Object-Oriented Programming,
+file handling, validation, modular code structure, and basic data analysis.
 
 ## Why This Project Was Built
 This project was built as part of a learning and evaluation task to:
@@ -20,7 +20,7 @@ This project was built as part of a learning and evaluation task to:
 - Handle user input safely and professionally
 - Simulate real-world software development practices
 
-Instead of writing small scripts, this project focuses on building a **complete system**
+Instead of writing small scripts, this project focuses on building a complete system
 from scratch.
 
 ## What This Project Does
@@ -66,11 +66,11 @@ This follows real-world software engineering practices.
 ---
 
 ## Technologies & Tools Used
-- **Python 3**
-- **CSV module** (Python standard library)
-- **Object-Oriented Programming**
-- **Command-Line Interface**
-- **VS Code** for development
+- Python 3
+- CSV module (Python standard library)
+- Object-Oriented Programming
+- Command-Line Interface
+- VS Code for development
 
 No external libraries were used, keeping the project lightweight and portable.
 
